@@ -4,5 +4,4 @@ React Native实现仿携程首页，只实现了"首页"Tab的页面显示（采
 运行截图：
 
 ![截图1](screen/screen1.png)
-
 ![截图2](screen/screen2.png)
